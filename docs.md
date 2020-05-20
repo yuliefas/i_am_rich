@@ -17,6 +17,9 @@ click generate maka akan di buatkan icon untuk android dan iphon
 untuk config icon android
 replace directory `android/app/src/main/res/mipmap-*` dengan hasil generate icon untuk android
 
+to generate icon pretty cool transparency
+klik kanan di directory `android/app/src/main/res` -> New -> Image Asset
+and then open icon.png (your icon) and finish
 
 ## Ios Icon
 replace directory `ios/Runner/Assets.xcassets` dengan hasil generate icon ios
